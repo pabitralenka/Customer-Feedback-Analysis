@@ -1,0 +1,11 @@
+{
+    "word2vec": "GoogleNews-vectors-negative300.bin",
+    "num_epochs": 100,
+    "batch_size": 64,
+    "num_filters": 128,
+    "filter_sizes": "3,4,5",
+    "embedding_dim": 300,
+    "l2_reg_lambda": 0.0,
+    "evaluate_every": 2,
+    "dropout_keep_prob": 0.5
+}

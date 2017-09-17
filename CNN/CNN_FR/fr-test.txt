@@ -1,0 +1,401 @@
+fr-test-0001	La chambre est situé au rdc niveau accueil alors il y a du bruit lors des départs matinaux.	comment
+fr-test-0002	Plats très bons, copieux mais en lisant les avis et leur site je m attendais à plus de surprises gustativement	comment
+fr-test-0003	votre version est déjà périmée.	comment
+fr-test-0004	Le téléphone qui a sonné une fois pendant la nuit	complaint
+fr-test-0005	Bar classe.	comment
+fr-test-0006	La salle de bains est splendide.	comment
+fr-test-0007	Petit déjeuner en buffet généreux et pour tous les goûts.	comment
+fr-test-0008	Service minimum à l'accueil	meaningless
+fr-test-0009	Le bruit venant de la rue et le côté désuet de la décoration	complaint
+fr-test-0010	Propreté, accueil, services et repas impeccable très belle terrasse et le restaurant est haute gamme pour un 4* je recommande l hôtel est très bien situe et ancien avec ses splendides salons historisques	comment
+fr-test-0011	Personnel aimable et accueillant	comment
+fr-test-0012	Les chambres sont certes petites ais beaucoup de cachet.	comment
+fr-test-0013	Emplacement: 15 mn de la vieille ville, à côté de la gare.	comment
+fr-test-0014	Cet hôtel est très bien situé au centre de Madrid, proche de la Puerto del Sol et de ses accès métro et train.	comment
+fr-test-0015	La TV ancienne génération (Tube cathodique)	complaint
+fr-test-0016	très agréable salon loundge grand choix de boissons et service jusqu a tard dans la soirée.	comment
+fr-test-0017	Celles du rez-de chaussée en face de l'accueil (chambres 5, 6 et 7) - à éviter - ne permettent pas de s'endormir avant minuit passé : requêtes incessantes d'une poignée de visiteurs assistés et (ou) impolis...	comment
+fr-test-0018	génial cette applications !!!!!!!	comment
+fr-test-0019	impeccable jeux	comment
+fr-test-0020	petit déjeuner parfait , copieux , personnalisé et bon.	comment
+fr-test-0021	j'ai voulu me connecter ça n'as oas marché idem pour recréée un compte.	comment
+fr-test-0022	Applique lumineuse + sèche-cheveux HS	complaint
+fr-test-0023	Les locaux sont veillots même s'ils sont bien tenus.	comment
+fr-test-0024	Le parking privé.	meaningless
+fr-test-0025	Brunch en famille.	comment
+fr-test-0026	Un personnel aimable (mais qui semble un peu débordé ).	complaint
+fr-test-0027	Disparu la fluidité de lecture.	comment
+fr-test-0028	(+) simplicité, services proposés (-) désactivation app impossible, trop de permissions, conso batterie	complaint
+fr-test-0029	Pour ma part, je les depuis longtemps et je les toujours, je l'utilise quand je trouve pas sur les torrent ce que je veux et il et surtout bien pour avoir des vidéos et des clips!!	comment
+fr-test-0030	Bien	comment
+fr-test-0031	n'arrete aucune menace sérieuse	comment
+fr-test-0032	Hotel très bien placé pour un week end shopping en train,	comment
+fr-test-0033	Très bien situé, près de Saint Patrick Street, petit déjeuner Irlandais de qualité, literie et propreté très bien.	comment
+fr-test-0034	Hôtel 4* idéalement situé, sur LA grande avenue commerçante de Madrid, entre deux stations de métro.	comment
+fr-test-0035	Il permet d'analiser les fichiers avec votre propre antivirus si vous le souhaitez!	comment
+fr-test-0036	Et j'ai eu la chance d'avoir une chambre qui captait très bien le WiFi.	comment
+fr-test-0037	La pression de la douche.	complaint
+fr-test-0038	La grands chambre et salle de bain	comment
+fr-test-0039	Nous avons tourné pendant plus d'une demie heure...	comment
+fr-test-0040	La bergerie Fileta est un petit paradis sur terre, parfaitement équipée avec tout le confort d'un 4/5 étoiles.	comment
+fr-test-0041	Hôtel bien disposé et très propre.	comment
+fr-test-0042	Le personnel est super sympa que se soit l'accueil en journée ou les équipes du soir	comment
+fr-test-0043	Ancien hotel particulier renove avec gout.	comment
+fr-test-0044	Petit déjeuner moyen.	comment
+fr-test-0045	Bonjour, la tache automatique de défragmentation de Windows faut il la désactiver ?	complaint
+fr-test-0046	sinon c est super .	comment
+fr-test-0047	L' hôtel ne tient pas compte des demandes faites par le biais du site de réservation.	complaint
+fr-test-0048	Bon hôtel dans l'ensemble.	comment
+fr-test-0049	Presque parfait	comment
+fr-test-0050	C'est élégant, accueillant et que de jolies attentions pour les hôtes.	comment
+fr-test-0051	Un peu bruyant côté rue et peu de pression dans la salle de bain.	complaint
+fr-test-0052	Petit balcon très agreable .	comment
+fr-test-0053	Mais depuis une récente mise à jour, on ne peut plus combiner deux filtres quabd on fait une recherche!	complaint
+fr-test-0054	cela est exellent	comment
+fr-test-0055	J'ai à maintes fois réservé par BOOKING en étant satisfait ou très satisfait.	comment
+fr-test-0056	télécharger regcleaner et enregistré avant l' installation, un clique droit puis propriété	comment
+fr-test-0057	Gde douche et gde sdb.	comment
+fr-test-0058	Fenetre inaccessible car trop haute avec aucune vue sue l exterieur.	complaint
+fr-test-0059	Chambre perfecto et piscine, very nice	comment
+fr-test-0060	très utile.	comment
+fr-test-0061	A notre grande surprise, une spacieuse chambre propre donnant sur une cour arborée, un lit confort+++. Petit déjeuné copieux et variés...	comment
+fr-test-0062	Très très joli cadre on a l'impression d'être dans une villa avec une vue superbe sur la baie de Calvi	comment
+fr-test-0063	Visa pas acceptée	comment
+fr-test-0064	Service chaleureux et très attentionné.	comment
+fr-test-0065	Professionnalisme.	meaningless
+fr-test-0066	Le personnel est vraiment en cours d'amélioration.	comment
+fr-test-0067	Une terrasse fort agréable est aménagée pour boire un verre ou manger .	comment
+fr-test-0068	Ok merci beaucoup	comment
+fr-test-0069	Salle de bain trop petite	complaint
+fr-test-0070	Le personnel est au niveau des grands palaces, serviable, attentionné et discret.	comment
+fr-test-0071	La réceptionniste parlait français.	comment
+fr-test-0072	Le petit déjeuner est de qualité et une dégustation de fromages et de vins nous est offerte tous les soirs.	comment
+fr-test-0073	:-)	comment
+fr-test-0074	Le rapport qualité/prix est très bien .	comment
+fr-test-0075	Accueil sympathique très loin des usines à touristes impersonnelles.	comment
+fr-test-0076	Très belle expérience au National Hôtel juste en face de la place rouge et du kremlin, vue imprenable du restaurant de l'hôtel sur la place rouge.	comment
+fr-test-0077	Belle maison un peu vieillissante mais tres propre.	complaint
+fr-test-0078	Excellent !	comment
+fr-test-0079	Très bien situé en retrait de la rambla et donnant sur une très belle place , cet hotel a beaucoup de charme	comment
+fr-test-0080	le centre ville est à 10 minutes pied et le tram à proximité de l'hotel.	comment
+fr-test-0081	En réalité c'est à 30 min à pieds et à 40 min de la gare des bus.	comment
+fr-test-0082	accueil très sympathique tout était parfait !!	comment
+fr-test-0083	J aime vraiment cela	comment
+fr-test-0084	la chambre	meaningless
+fr-test-0085	Obligation de l'installer pour une autre application	comment
+fr-test-0086	Supet !!	comment
+fr-test-0087	La nouvelle mise a jour est pourrite!	complaint
+fr-test-0088	Ce n'est pas une application qui "remplace" toutes les autres !	complaint
+fr-test-0089	Agréablement surprise par le room service, j'ai choisi le burger et je n'est pas été déçue.	complaint
+fr-test-0090	ecrans mal conçus	comment
+fr-test-0091	Il est parfait jusqu'à ce qu'il ne fonctionne plus sous Mozilla, Google, Opéra, j'ai tout essayé, rien n'y fait.	comment
+fr-test-0092	La chambre est confortable et propre.	comment
+fr-test-0093	Évidemment, comme il s'agit d'un logiciel Microsoft, il est très critiqué ''par réflexe''.	comment
+fr-test-0094	Accueil et service à la hauteur, restauration de qualité, salles de réunion bien équipées, chambres spacieuses	comment
+fr-test-0095	Instagram est bien assez complète je trouve.	comment
+fr-test-0096	La facilité de parking, la mise à disposition d'un lave linge et d'un sèche linge pro	comment
+fr-test-0097	Nous l'avons signalé le lendemain matin, le soir en rentrant la fenêtre ne fermait toujours pas, par contre le chauffage fonctionnait et la réceptionniste n'avait personne pour intervenir, elle nous a proposé de changer de chambre.	complaint
+fr-test-0098	On se sentait dans une residbce plutot qu a l hotel.	comment
+fr-test-0099	Chambre un peu petite pour la valise .	complaint
+fr-test-0100	Un moment hors du temps dans cet hôtel au charme parfait, d une tranquillité absolue !	comment
+fr-test-0101	La sonorité du hall d'accueil : un hall de gare	comment
+fr-test-0102	TV plus grande serai un mieux	comment
+fr-test-0103	Globalement très bien.	comment
+fr-test-0104	On retrouve l'hôtel et son équipe avec grand plaisir après sa journée d'activité.	comment
+fr-test-0105	Les marcheurs se sentiront trompés.	comment
+fr-test-0106	C'est propre, la chambre est bien pour une nuit, le petit déjeuner est plutôt sympa.	comment
+fr-test-0107	La decoration est très agreable et chaleureuse	comment
+fr-test-0108	de la grosse arnaque !	complaint
+fr-test-0109	Localisation aux pieds d'un noeud routier	complaint
+fr-test-0110	C'est ma meilleure application jld	comment
+fr-test-0111	L’hôtel est très récent (ouvert en 2016) et se trouve dans un quartier en pleine mutation.	comment
+fr-test-0112	Accueil minimal	meaningless
+fr-test-0113	Très bel établissement, grande qualité du personnel qui est omniprésent et pourtant très discret.	comment
+fr-test-0114	Dommage, la salle de bains un peu petite par rapport à la grandeur de la chambre.	complaint
+fr-test-0115	Sa c'est pa normal!	comment
+fr-test-0116	Bonjour,	meaningless
+fr-test-0117	AU SECOURS	comment
+fr-test-0118	Merci de m'aider	comment
+fr-test-0119	séjour agréable ; en solo ; type de séjour à développer ; on espére que le site de Chamonix sera préservé ; je souhaite qu'il y ait plus d'activité pour les clients solo.	comment
+fr-test-0120	....	comment
+fr-test-0121	Nous étions dans un très bel appartement face à la Baie d'Ajaccio...	comment
+fr-test-0122	La chambre sous les toits est déprimante.	comment
+fr-test-0123	Maison ancienne jusqu'au bout...	meaningless
+fr-test-0124	Superbe hotel un peu à l'écart de Moscou, mais à l'accès facile par métro (10 minutes de marche) ou taxi !	comment
+fr-test-0125	Nous avons tout aimé !	comment
+fr-test-0126	je ne sait pas si ça va marcher avec mon hp notebook	comment
+fr-test-0127	La salle de bains est presque impraticable.	comment
+fr-test-0128	du fait de la circulation	comment
+fr-test-0129	Accueil sympathique et surtout très pro, .	comment
+fr-test-0130	Et une suite très très soigné dan les moindres détail avec des matériaux de bonne qualité et une douche inoubliable .	comment
+fr-test-0131	Bon service de chambre	comment
+fr-test-0132	Literie : lit à ressorts peu confortable	complaint
+fr-test-0133	rien à ajouter	undetermined
+fr-test-0134	Soins de qualité.	comment
+fr-test-0135	C'est plus simple Et rapide	comment
+fr-test-0136	Chambre bruyante.	complaint
+fr-test-0137	Cette application est vraiment génial, temps en temps quelques beug mais rien de grave..	comment
+fr-test-0138	Le personnel est très agréable et gentil.	comment
+fr-test-0139	Très bon service	comment
+fr-test-0140	Ambiance agréable et personnel aux petits soins, nous en garderons un excellent souvenir !	comment
+fr-test-0141	Les chambres sont magnifiques, la vue superbe, l'accueil parfait.	comment
+fr-test-0142	Personnel disponible et aux petits soins.	comment
+fr-test-0143	c'est un hôtel	comment
+fr-test-0144	C'est nouveau pour moi	comment
+fr-test-0145	Plein centre de Bordeaux ce qui est très bien et notre chambre était calme ce qui n'était pas gagné vu le quartier	comment
+fr-test-0146	Restaurant italien, normal, sans plus, attention arnaque sur le vin.	complaint
+fr-test-0147	Personnel courtois et accueillant.	comment
+fr-test-0148	Hotel convivial avec personnel à l ecoute et réactif	comment
+fr-test-0149	Juste un peu plus d espace, sinon chambre calme donnant sur la cour intérieure.	comment
+fr-test-0150	- propre et bien équipé.	comment
+fr-test-0151	Cadre atypique, réel jardin perché au cœur de Madrid.	comment
+fr-test-0152	Plus de viennoiseries au petit déj' et surtout on ne remplit pas car c'est bientôt la fin du service (il était 9h15 et le service fini à 10h !!!.	comment
+fr-test-0153	magnifique endroit et prestations de grande qualité chambres spacieuses avec splendide vue restauration digne d'un étoilé ,petit déjeuner très agréable en extérieur	comment
+fr-test-0154	Bonjour, j'utilisais Emule avant, mais depuis y'a Hadopi, je voudrais savoir si Emule est toujours Légale.	complaint
+fr-test-0155	Le petit-déj	meaningless
+fr-test-0156	Accueil agréable .	comment
+fr-test-0157	Idéalement situé au pied du parking souterrain de Nice étoile et à quelques mètres de l'avenue Médecin.	comment
+fr-test-0158	Bus à proximité pour se rendre dans le centre.	complaint
+fr-test-0159	Les chasse d'eau sont longues à se remplir (problème assez commun en Irlande !)	complaint
+fr-test-0160	pratique car très proche du Centre et de la gare de bus	comment
+fr-test-0161	Le bémol est le petit déjeuner, très décevant.	comment
+fr-test-0162	la possibilité de laisser la voiture dans le parking le matin du départ pour une durée indéterminée	complaint
+fr-test-0163	Hôtel qui ne devrait pas avoir 5 étoiles.	comment
+fr-test-0164	La situation à la porte de l'université.	comment
+fr-test-0165	très 'bonne' suite logiciel,	comment
+fr-test-0166	Au dernier étage il y a une terrasse panoramique où la vue est magnifique!	comment
+fr-test-0167	L'accueil du premier soir, les explications sur Cork.	meaningless
+fr-test-0168	tres bonne situation géographique.	meaningless
+fr-test-0169	- parking	meaningless
+fr-test-0170	Volontairement choisi car un peu excentré du centre ville (10-15 min à pieds) et du coup très calme !	comment
+fr-test-0171	Bon petit programme GRATUIT qui fait ce qu'on lui demande sans être une usine a gaz, c'est déjà pas si mal.	complaint
+fr-test-0172	Nul on ne peut pas supprimer un compte.	complaint
+fr-test-0173	L’hôtel est idéalement placé au cœur de la ville avec en plus une magnifique terrasse.	comment
+fr-test-0174	rapidité efficacité : what else ???	comment
+fr-test-0175	L'emplacement au coeur du noeud Perrache est contraignant en voiture comme à pieds mais central.	comment
+fr-test-0176	Très bien reçu par tout le monde et très convivial	comment
+fr-test-0177	Ce B&B est à 10 mn à pied du centre de Cork.	comment
+fr-test-0178	Pas loin du centre de Cork, très fonctionnel.	comment
+fr-test-0179	Très spacieuse.	comment
+fr-test-0180	Les lits étaient bons	comment
+fr-test-0181	D'abord client d'autres antivirus, j'ai eu pas mal de problèmes, un virus a même planté mon PC.	comment
+fr-test-0182	Hotel très sympa, idéalement placé pour faire les magasins et manger le soir à Barcelonetta au bord de l'eau, à 10€ de txi des principaux sites à visiter.	comment
+fr-test-0183	Les chambres de ce petit hotel sont grandes avec une super literie et sont bien isolées ( nous étions collés à la salle de petit déjeuner et nous n'avons rien entendu) .	comment
+fr-test-0184	Différents lieux de relaxation intérieurs et extérieurs.	comment
+fr-test-0185	nettement supérieur au defrag windows !!!	comment
+fr-test-0186	Impossible de faire quoi que se soit !	complaint
+fr-test-0187	facile a utiliser	comment
+fr-test-0188	simple et efficace, un vrai logiciel 100% gratuit.	comment
+fr-test-0189	nous avons du annuler une nuit et le patron nous a remboursé une partie de la nuit non utilisée , c'est très gentil de sa part	complaint
+fr-test-0190	Équipement de la salle de bain assez vieillot : robinets séparés pour le lavabo, lampes absolument insuffisantes et éloignées du miroir, pas de support pour les serviettes de main...	complaint
+fr-test-0191	Il n'est même pas compatible Mac OS.	complaint
+fr-test-0192	Les musiques asiatiques n'y sont pas .	complaint
+fr-test-0193	Les suites sont magnifiques, très bien décorées, bien aménagées.	comment
+fr-test-0194	Le rapport qualité prix pour la nuit	comment
+fr-test-0195	Le breakfast , avec ses Scônes maison et le Porridge préparé par le cuisinier	comment
+fr-test-0196	nous avons passé un très bon séjour	comment
+fr-test-0197	Peu de places de parking dans l'hôtel.	complaint
+fr-test-0198	Baignoire dans les chambres.	comment
+fr-test-0199	Etablissement un peu ancien et limité aux niveaux qualités des équipements.	comment
+fr-test-0200	La chambre est spacieuse, la décoration est en confort.	comment
+fr-test-0201	Il faut le dénicher car caché au dernier étage, au dessus d'un magasin de fringues et de déco.	complaint
+fr-test-0202	Nous avions la seule terrasse qui donne sur un patio intérieur.	comment
+fr-test-0203	Nous avons séjourné 3 nuits à l'Excelsior pour un week-end prolongé sur la French Riviera.	comment
+fr-test-0204	Les poussières au dessus de la tête de lit n'avaient pas été faites.	complaint
+fr-test-0205	et le quartier pas très sympa.	comment
+fr-test-0206	Félicitations pour la qualité des mets du petit déjeuner au dîner!	comment
+fr-test-0207	Avec cette configuration, ce programme (QuickTime) ne lit pas les DVD Blu-Ray.	comment
+fr-test-0208	Je n'ai jamais connu de problème avec les versions antérieures de ce logiciel .	comment
+fr-test-0209	Hôtel de bonne classe.	comment
+fr-test-0210	Facile d'utilisation	comment
+fr-test-0211	Open source et fait tout aussi bien que WinRar	comment
+fr-test-0212	Le fait de pouvoir diner sur place.	complaint
+fr-test-0213	Literie moyenne avec couvertures et chambre vieillotte...	complaint
+fr-test-0214	nous avons été conquis!	meaningless
+fr-test-0215	La chambres au 10è étage coté cour est très calme.	comment
+fr-test-0216	Très belle vue sur le massif Mont Blanc.	complaint
+fr-test-0217	j aimerais beaucoup que il mette le mode multijoueurs	meaningless
+fr-test-0218	Bien situé malgré la proximité des voies ferrées on n'entend rien.	comment
+fr-test-0219	nous étions dans l'annexe l'eau chaude et froide coulait marron pendant un certain temps.	comment
+fr-test-0220	Une piscine très bien pensée pour les enfants.	comment
+fr-test-0221	Je reçois les messages en retard...	comment
+fr-test-0222	installé sur Vista par défault pendant 2 ans et ne m'a jamais rien trouvé	comment
+fr-test-0223	n°d'art:300432121e	meaningless
+fr-test-0224	Petit parking de 5 places en sous sol (18 euros par nuit) ; sinon un parking public à proximité.	comment
+fr-test-0225	Top	comment
+fr-test-0226	Sa situation, sa salle de bain, sa literie	complaint
+fr-test-0227	Le petit déjeuner est très décevant.	comment
+fr-test-0228	Pas très loin de la station de bus	complaint
+fr-test-0229	Trop cool mais je peut plus mettre un commentaire sous une photo je redire 1 étoile	comment
+fr-test-0230	Accueil Impersonnel -	complaint
+fr-test-0231	Petit déjeuner copieux et varié. Service charmant.	comment
+fr-test-0232	La chambre donnait sur la rue très bruyante: carrefour avec fort trafic routier	complaint
+fr-test-0233	nous permet d'appeler et envoyer gratuitement des messages	comment
+fr-test-0234	C'est un peu loin de la ville.	complaint
+fr-test-0235	Une bouilloire et du thé et du café dans la chambre (ainsi que sucre et lait). La salle de bain était grande.	comment
+fr-test-0236	voici le liens pour tant autre	comment
+fr-test-0237	Merci encore!	comment
+fr-test-0238	La porte de communication entre la chambre et le sas d entrée ne ferme pas.	comment
+fr-test-0239	La chambre etait froide, les rideaux decroches et la television (tres mauvaise reception) inutilisable	complaint
+fr-test-0240	L'accueil y est soigné et sympathique, le personnel est abordable et se montre disponible.	comment
+fr-test-0241	Va dans démarrer, panneau de configuration, programmes et fonctionnalités, désinstalle --> flash player.	complaint
+fr-test-0242	Cette application est geniale rien àvoir avec Fbook jai dailleurs tout désactivé❤❤❤merciii GENIALE	comment
+fr-test-0243	excentré (il vaut mieux avoir une voiture), bus pas très fréquent	complaint
+fr-test-0244	Bien situé, à proximité du centre ville de Cork.	comment
+fr-test-0245	la chambre était trés confortable et la salle de bain trés propre.	comment
+fr-test-0246	Nous avons regretté de ne pouvoir ouvrir les fenêtres, nous avons eu très chaud et n'avons pu mettre la clim car bien trop bruyante.	comment
+fr-test-0247	Très peu de place gratuites devant l'hôtel et le parking est cher.	complaint
+fr-test-0248	Nous n'avons pas eu la chambre réservée.	complaint
+fr-test-0249	Ps : j'ai un Samsung galaxie J1 2016	comment
+fr-test-0250	Cependant il fait trop chaud dans les chambres, et il n'était pas possible de passer en mode clim.	complaint
+fr-test-0251	So irish!	comment
+fr-test-0252	Franchement, c vraiment une super appli, ce qui est cool c que l on peut appeler par WhatsApp gratuitement !	comment
+fr-test-0253	Et si j'essaye, impossible par la suite de publier une photo sur mon profil.	complaint
+fr-test-0254	Petit déjeuner déplorable	comment
+fr-test-0255	l appartement est très bien et surtout très bien situé il y a toujours du café du the des biscuits et bonbons a disposition a la réception ;tout est très propre le ménage est fait quotidiennement le parking payant est bien utile	comment
+fr-test-0256	Proposer plus d'activités aux clients non skieur	complaint
+fr-test-0257	J'aimerai savoir si toi Al2icia tu avais résolu ton problème et réussi à télécharger ainsi que toi guerin7?	complaint
+fr-test-0258	Le petit déjeuner est complet.	comment
+fr-test-0259	L'accueil est excellent, l'hôtel a en fait plusieurs bâtiments les uns à côté des autres, on vous le dira sur place mais faites attention au numéro de bâtiment pour pas vous trompez si vous sortez car ils se ressemblent tous.	comment
+fr-test-0260	Accueil très chic et personnel bien formé .	comment
+fr-test-0261	Ce n'est pas que l'on a pas apprécié, mais l'équipement de l'établissement fiat un peu trop vintage!	complaint
+fr-test-0262	Invitée par une amie, nous avons pris place au bar bibliothèque du saint james pour boire du bon vin et manger une salade cesar dans une ambiance cosy et feutrée exceptionnelle.	comment
+fr-test-0263	L’hôtel est très agréable : accueil chaleureux, déco chic et raffinée, chambre très confortable et petit déjeuner excellent.	comment
+fr-test-0264	Quelques points à voir sur le petit-déjeuner .	comment
+fr-test-0265	Inutile	meaningless
+fr-test-0266	Accueil professionnel.	comment
+fr-test-0267	Un endroit parfait pour un court séjour au coeur de Lyon, situé sur la presqu'île.	comment
+fr-test-0268	Au coeur de Barcelona, un petit nid douillet avec une Equipe au petit soin.	comment
+fr-test-0269	La piscine est très agréable.	comment
+fr-test-0270	Buffet varié, dîner et petit déjeuner.	comment
+fr-test-0271	Literie moyenne.	complaint
+fr-test-0272	J'espère que le service va continuer de tenir la route	complaint
+fr-test-0273	Trés bon petit déjeuner, Fruits frais pressés.	comment
+fr-test-0274	Nous avons séjourné plusieurs jours dans cet hôtel.	comment
+fr-test-0275	Finalement 2 pancakes pour 10 eur ..	comment
+fr-test-0276	La décoration originale, la salle de bain(avec crème hydratante et sèche-cheveux inclus), la présence d'un dispositif permettant de chauffer son eau accompagné de café&thé et de cookies directement depuis sa chambre, l'accueil qui m'a été offert(on m'a directement indiqué les certains lieux intéressants de la ville).	complaint
+fr-test-0277	Excellent petit déjeuner.	comment
+fr-test-0278	Un petit peu décentré mais ce n'est pas un grand problème.	complaint
+fr-test-0279	Franchement rien à redire sur cet hôtel, ni sur le personnel qui est au top.	comment
+fr-test-0280	bonne application par compte elle est compliquée un peu avec sms j'arrive pas comparer entre messages de sms et messenger.	complaint
+fr-test-0281	Le copieux petit dejeuner	comment
+fr-test-0282	Les services proposés sont tous d'une grande qualité et permettent à chacun de passer un agréable moment dans l'hôtel.	comment
+fr-test-0283	Le lieu est charmant tres propre, les equipes sont incroyables souriantes et a votre service, les plus un petit dejeuner gourmand que j'attends avec impatience, un spa relaxant intime et magique et des petits balcons pour certaines chambres qui raviront les fumeurs	comment
+fr-test-0284	Personnellement, je trouve cet emulateur "hyper lent" !	complaint
+fr-test-0285	Maison très belle, calme, chambre spacieuse et propre, bien équipée.	comment
+fr-test-0286	Petit déjeuner très satisfaisant et chambre propres.	comment
+fr-test-0287	le personnel très sympa et qui parle français le petit déjeuner à la carte suivant votre désir	comment
+fr-test-0288	Trop cher.	complaint
+fr-test-0289	Ce lieu est tout simplement magique.	comment
+fr-test-0290	l’hôtel est propre et l'équipe agréable et souriante.	comment
+fr-test-0291	Super produit :) mais a quand une MAJ en Francais ?	comment
+fr-test-0292	La chambre, le prix, la situation géographique, le personnel.	meaningless
+fr-test-0293	Petit dejeuner correct	comment
+fr-test-0294	Les plus : les chambres , spacieuses avec une très belle vue , des prises partout etc....	comment
+fr-test-0295	La possibilité de cuisiner et de prendre le petit déjeuner ( aliments fournis) en toute autonomie tout en discutant avec d'autres voyageurs.	comment
+fr-test-0296	Petit hotel de 18 chambres avec beaucoup de charme.	comment
+fr-test-0297	Accueil du personnel	meaningless
+fr-test-0298	J'espère que le problème pourra être réglé !	complaint
+fr-test-0299	Le petit dejeuner est tres diversifie, aussi bien en sale que sucre.	comment
+fr-test-0300	Elles vont vraiment me manquer !	comment
+fr-test-0301	Le tout était bruyant et tôt.	complaint
+fr-test-0302	Parking pour la voiture.	meaningless
+fr-test-0303	De plus, le petit déjeuner Irlandais est absolument à essayer, mon copain en dévorait un tous les matins !	comment
+fr-test-0304	Très bon accueil.	comment
+fr-test-0305	Personnel sympatique	comment
+fr-test-0306	Etablissement propre, équipement moderne, charme extérieur de l'ancien, rénovation avec gout, plein centre sans les désagréments du centre (calme) vue exceptionnelle sur le MB.	comment
+fr-test-0307	Il faisait très froid dans la chambre donc le chauffage serait à revoir	complaint
+fr-test-0308	Nous avons dormi au dernier étage avec l'impression d'être dans le grenier.	comment
+fr-test-0309	Je suis oblige de desinstaller et reinstaller Kies a chaque utilisation.	comment
+fr-test-0310	L'emplacement de cet hotel est parfait pour ceux qui arrivent comme moi à la gare du Nord	comment
+fr-test-0311	excellent établissement personnel très attentif réservant le meilleur accueil	comment
+fr-test-0312	Un hôtel magnifique, un accueil fort sympathique.	comment
+fr-test-0313	Le parking	meaningless
+fr-test-0314	Cet hôtel est situé à deux pas du centre-ville et dans le quartier huppé de SERRANO.	comment
+fr-test-0315	- Trop de nuissances sonores dans notre chambre ( elle se trouve au bord de la route, on y entend la musique du restaurant le soir, et pour finir les clients des chambres mitoyennes)	complaint
+fr-test-0316	J'ai une amie qui a fais la misse à jour et elle peut faire des effets sur son visage en cam et moi après avoir refais la mise à jour plusieurs fois j'ai rien pouvez vous régler mon problème SAP Merci	complaint
+fr-test-0317	Juste parfait	comment
+fr-test-0318	J'ai dû désinstaller l'application deux fois en deux jours à cause de ce problème!	complaint
+fr-test-0319	J'adore Instagram..	comment
+fr-test-0320	Chambre calme et propre;	comment
+fr-test-0321	Il y a 3 chambres au rdc juste à côté de la réception.	comment
+fr-test-0322	Grand lit.	comment
+fr-test-0323	A 10 minutes à pied du centre ville .	comment
+fr-test-0324	Miroir tout piqué. Éclairage sur miroir HS). TV minuscule hors d'âge.	complaint
+fr-test-0325	rien a dire c naze	comment
+fr-test-0326	seulement le 3-4 premières secondes.....	complaint
+fr-test-0327	Pour ma par désinstallé dans l'heure qui a suivi sont installation.	complaint
+fr-test-0328	Fournit les invitations pour le visa en 24h sans frais!	complaint
+fr-test-0329	propreté des chambres	meaningless
+fr-test-0330	L'hôtel est superbe, la literie très confortable, la salle de bain très fonctionnelle avec sa baignoire	comment
+fr-test-0331	Hôtel très bien situé au coeur du centre ville.	comment
+fr-test-0332	un peu loin de la ville si on est piéton	complaint
+fr-test-0333	Non merci!	comment
+fr-test-0334	Une belle et grande chambre, propre, avec une grande salle de bain propre et une jolie vue sur le petit jardin.	comment
+fr-test-0335	si vous plais mettez des video.	comment
+fr-test-0336	il faudrait mettre des cendriers pour que les mégots ne trainent pas dans le jardin.	comment
+fr-test-0337	La petite lampe témoin bleu de la télévision est un peu gênante la nuit.	complaint
+fr-test-0338	Situation géographique excentrée.	comment
+fr-test-0339	Privilégiez les étages élevés pour bénéficier de l avue sur Moscou.	complaint
+fr-test-0340	Salam,	comment
+fr-test-0341	c'est que sa marche pas quand je me fais un compte...	bug
+fr-test-0342	L établissement est vraiment bien décoré, les chambres sont jolie malgré la notre un peu petite.	comment
+fr-test-0343	La situation est idéale à pied ou en voiture.	comment
+fr-test-0344	mais il y a un mais	comment
+fr-test-0345	chambre donnant sur la rue un peu bruyante	complaint
+fr-test-0346	La chambre est plus que confortable, le personnel au petit soin, un accueil chaleureux et familial.	comment
+fr-test-0347	Horaires respectés	comment
+fr-test-0348	Fenêtre pas étanche	complaint
+fr-test-0349	et on peut en gagner asser souvent.	comment
+fr-test-0350	Il est bien insonorisé.	comment
+fr-test-0351	Emplacement correct - service et lieu correct	comment
+fr-test-0352	notre court séjour a été très agréable.	comment
+fr-test-0353	chambre confortable spacieuse, accueil agréable, bonne situation avec vue magnifique, toutes les chambres ont vue sur la mer, une fois sur le balcon un vis a vis avec le voisin du dessus peut être désagréable.	comment
+fr-test-0354	Je recommande.	comment
+fr-test-0355	Pas d'ascenseur donc ceux qui ont du mal à porter leur valise très lourde attention.	complaint
+fr-test-0356	Excellent sejour dans un hotel intime.	comment
+fr-test-0357	Attention au parking, peu de place.	complaint
+fr-test-0358	pour resume premiere experience pas au top peut-etre avons nous tire le mauvais numero de chambre	comment
+fr-test-0359	Wifi faiblard dans l'annexe	meaningless
+fr-test-0360	petit déjeuner	meaningless
+fr-test-0361	bjr, j'ai telecharger ce logiciel mais lorsque j'essaye de l'ouvrir il me demande que je ne dispose pas du materiel ou du lecteur VGA compatible pour executer	complaint
+fr-test-0362	Petit problème d'eau chaude a l'arrivé mais très vite résolu	complaint
+fr-test-0363	Malgré un personnel très sympathique, cet hôtel est à bannir!!!!	comment
+fr-test-0364	Hotel un peu vieillissant, situé près d'une grande route, assez loin du centre ville	complaint
+fr-test-0365	Je coiyais qu'il fallait chercher des amis	complaint
+fr-test-0366	Bon rapport qualité prix	comment
+fr-test-0367	La propreté	meaningless
+fr-test-0368	Un hôtel triste, un coin repas sombre, un petit déjeuner très moyen.	comment
+fr-test-0369	Chambre avec balcon donnant sur le Mont Blanc, très bonne literie, petit déjeuner copieux pour tous les goûts.	comment
+fr-test-0370	Parking suffisant avec prise pour véhicules électriques	comment
+fr-test-0371	On se sent bien dans cet hôtel.	comment
+fr-test-0372	Le petit déjeuner très copieux.	comment
+fr-test-0373	Seul petit point négatif, la taille des chambres standards.	complaint
+fr-test-0374	Le petit déjeuner	meaningless
+fr-test-0375	Ont imprimé nos boarding-pass très aimablement .	comment
+fr-test-0376	La version 2.1.2 lit mes fichiers .mp4 et .ts avec une pixellisation et une image qui se fige .	complaint
+fr-test-0377	Très bon petit déjeuner et très bon rapport qualité prix pour une cuisine faite maison Aves des produits frais .	comment
+fr-test-0378	Très bon établissement, un Irish breakfast des plus copieux, bonne literie, insonorisation ok, et en plus bien situé, près du centre ville.	comment
+fr-test-0379	Un peu loin de la ville(3km), si vous n'êtes pas habitué à marcher cela vous fera les jambes.	complaint
+fr-test-0380	Propreté. Accueil et personnel.	comment
+fr-test-0381	et Wink j'ai été agréablement surpris par	comment
+fr-test-0382	Cool	comment
+fr-test-0383	Les erreurs détectés par Spybot n'ont pu être corrigées : BabylonToolbar,	comment
+fr-test-0384	malheureusement la version finale est sortie:	comment
+fr-test-0385	Établissement moderne, propre et agréable	comment
+fr-test-0386	Rien	meaningless
+fr-test-0387	Très bel Hotel, placé juste en face du Kremlin !	comment
+fr-test-0388	Service excellent et attentionné de [NAME].	comment
+fr-test-0389	Il y a plein de chose qui pollu le visuel et qui ne se changent pas dans les paramètres, comme la section de salon, moment de la journée...	comment
+fr-test-0390	il plante 9 fois sur 10, il ne souvre pas et tourne en fond, il faut passer par le gestionnaire de taches pour l'arrêter et n'efface pas tout	complaint
+fr-test-0391	Fb oblige par tout les moyens d'utiliser l'application, mais ne sont pas foutu de la faire fonctionner convenable, une vraie m*rde....	complaint
+fr-test-0392	un grand merci a vous j'ai tellement galérer pour trouver un logiciel	comment
+fr-test-0393	A 10 minutes à pied du centre ville	comment
+fr-test-0394	Les réceptionnistes sont très agréables et leur service est très professionnel.	comment
+fr-test-0395	Bonjour,	meaningless
+fr-test-0396	La disponibilité du personnel pour résoudre les petits aléas (ampoule de la lampe de chevet grillet etc). Très aimable et avenant.	comment
+fr-test-0397	Magnifique hôtel.	comment
+fr-test-0398	Le charme du b&b	complaint
+fr-test-0399	je le téléchargerais tout de suite	complaint
+fr-test-0400	tres bon logiciel tres bonne vittesse de telechargement et d'upmoade	comment
+

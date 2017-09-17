@@ -1,0 +1,25 @@
+For Tag [request]
+  Precision: [-1.0]
+  Recall:    [0.0]
+  F1:        [-1.0]
+
+For Tag [comment]
+  Precision: [0.9151785714285714]
+  Recall:    [0.8951965065502183]
+  F1:        [0.9050772626931567]
+
+For Tag [complaint]
+  Precision: [0.6363636363636364]
+  Recall:    [0.7924528301886793]
+  F1:        [0.7058823529411764]
+
+For Tag [bug]
+  Precision: [-1.0]
+  Recall:    [0.0]
+  F1:        [-1.0]
+
+For Tag [meaningless]
+  Precision: [0.0]
+  Recall:    [0.0]
+  F1:        [NaN]
+

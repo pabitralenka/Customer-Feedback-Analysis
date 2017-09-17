@@ -1,0 +1,300 @@
+es-test-0001	Necesita mejorar las habitaciones	complaint
+es-test-0002	El personal del hotel muy amable.	comment
+es-test-0003	Muy recomendado	comment
+es-test-0004	La habitación súper grande! muy cómoda..	comment
+es-test-0005	De seguro volveria a alojarme, los recomiendo.	comment
+es-test-0006	La gastronomía excelente!	comment
+es-test-0007	Nada, aunque hubo un malentendido respecto al restaurante al momento de la reserva, ya que nos dijeron q no habia cena de navidad pero el restaurante estaba abierto	complaint
+es-test-0008	Bueno el sistema de aire acondicionado frío calor	complaint
+es-test-0009	Acondicionado de lo mejor.	comment
+es-test-0010	Buena ubicación, cama cómoda ...	comment
+es-test-0011	el desayuno, el precio del taxi.	complaint
+es-test-0012	Es un lugar hermoso y vale la pena conocerlo!!	comment
+es-test-0013	-No hay problemas con plugins	complaint
+es-test-0014	Mejorar servicios complementarios.	comment
+es-test-0015	La aplicación se está volviendo peor, se tarda en reproducir las canciones si recién enciendo mi celular, a veces se me quitan todas mis canciones descargadas sin motivo.	complaint
+es-test-0016	El personal muy amable, nos dieron una habitación mas grande que la media, muy cómoda y amplia	comment
+es-test-0017	A 15 minutos en taxi de Palermo soho y san Telmo.	comment
+es-test-0018	La verdad, ir, ir, no va mal.	complaint
+es-test-0019	Afortunadamente actuaron a tiempo.	meaningless
+es-test-0020	Muy buen ensamble con el area comedor	comment
+es-test-0021	El servicio es atento y considerado: siempre dispuesto a ayudar!	comment
+es-test-0022	El servicio del personal del hotel es increíble, las personas son muy amables y siempre dispuestas a ayudar.	comment
+es-test-0023	Todos y cada uno de ellos fueron agradables y muy atentos.	comment
+es-test-0024	Antes funcionaba bien desde hace dos meses el sistema falla todo el tiempo.	complaint
+es-test-0025	El desayuno completo y de muy buena calidad.	comment
+es-test-0026	Excelente atención.	comment
+es-test-0027	Muy rico y completo el desayuno. Cama muy amplia	comment
+es-test-0028	La pantalla se te pone en negro cuando quieres tomar una foto y se traba mucho no te deja mandar mensajes ni buscar a las personas que por que no están las personas en snapchat y es mala aplicación la desinstalare	complaint
+es-test-0029	Desayuno muy variado.	complaint
+es-test-0030	Personal muy amable.	comment
+es-test-0031	El personal super atento nos ayudó en todo.	comment
+es-test-0032	No lo puedo descargar desde hace dos días jamas me llega el mensaje de confirmacion	complaint
+es-test-0033	Todos los empleados super amables y atentos.	comment
+es-test-0034	Incluso nos han sorprendido con un detalle de cortesía.	comment
+es-test-0035	La cama muy comoda	comment
+es-test-0036	Su ubicación es exelente cerca de el parque la 93 que es muy bonito y con área de restaurantes y bares !! El hotel bonito y muy cómodo	comment
+es-test-0037	Excelente limpieza del lugar, amabilidad del persona y ubicación inmejorable! Un 10!	comment
+es-test-0038	Y la aplicación se queda colgada también en un alto porcentaje de los casos.	complaint
+es-test-0039	Personal encantador.	comment
+es-test-0040	Muy bien ubicado y muy buena la terraza y piscina	comment
+es-test-0041	Gracias.	comment
+es-test-0042	La habitación excelente, la cama muy cómoda al igual q las instalaciones, el desayuno muy bueno me gustó el toque de la miel artesanal.	comment
+es-test-0043	Desde la última actualización, cuando voy a entrar nunca vuelve a cargar.	complaint
+es-test-0044	a dos pasos de del mercat...	meaningless
+es-test-0045	El personal que nos atendió muy cordial	comment
+es-test-0046	Volveremos	meaningless
+es-test-0047	Muy buena la cama y la ducha.	comment
+es-test-0048	Voy hace años.de los mejores hoteles q hay.un verdadero placer cada vez q vuelvo a ir.	comment
+es-test-0049	Un hotel casi perfecto.	comment
+es-test-0050	todo excelente.	comment
+es-test-0051	Tener un gormet corner (colación) sin costos y a libre disposición.	comment
+es-test-0052	Nos gustó la atención personalizada del personal .	comment
+es-test-0053	Excelente la atención.	comment
+es-test-0054	Decepcionante.	complaint
+es-test-0055	Tengo tofos lis datos de Facebook y me seguir que les envie los datos .Si tienen todos me pueden ayudar en esto por favor ..Dios lis bendiga a todos Ud.	complaint
+es-test-0056	El hotel está muy bien localizado en una de las principales avenidas de Valencia.	comment
+es-test-0057	Muy lindo decorado	comment
+es-test-0058	Buena habitación.	comment
+es-test-0059	El servicio fue inmejorable, sobrio pero atento a todas nuestras necesidades.	comment
+es-test-0060	Buen desayuno.	comment
+es-test-0061	Nada que comentar	meaningless
+es-test-0062	Le doy 4 estrellas porque la busqueda de canciones no es del todo la mejor y a veces hay que ser muy preciso en el titulo de la cancion y tira pocas opciones...	complaint
+es-test-0063	Baño muy limpio y buen equipado.	comment
+es-test-0064	Nos dieron dos botellas de agua y chocolates de cortesía todos los días que nos quedamos, y el último día un obsequio con más chocolates.	complaint
+es-test-0065	Cama muy cómoda.Buen desayuno.	comment
+es-test-0066	Muy limpio, se ve nuevo y está muy bien ubicado	comment
+es-test-0067	La atención del personal es cordial y muy profesional.	comment
+es-test-0068	- Provoca errores a veces	comment
+es-test-0069	Armoniosa iluminación.	complaint
+es-test-0070	Me he tenido que alojar por motivos familiares y laborales en el hotel y la verdad que es muy cómodo, céntrico y de fácil encuentro.	comment
+es-test-0071	Repetiria sin duda	complaint
+es-test-0072	las habitaciones son moniiiiisimas y las interiores con una paz y una tranquilidad infinitas.	comment
+es-test-0073	Amabilidad del personal.	comment
+es-test-0074	El hotel está pegado a una clínica de cirugías plásticas por lo que es muy normal que durante el desayuno o en el día se vean ottos huéspedes con post operatorio llenos de vendas, parches, etc.	complaint
+es-test-0075	La ubicación excelente	comment
+es-test-0076	La cama muy cómoda, la habitación amplia y con una buena ducha.	comment
+es-test-0077	La verdad es de gran ayuda haber iniciado Spotify en Linux, aunque la gente que no tiene Unlimited o Premium no pueda utilizarlo	comment
+es-test-0078	El personal es muy atento y de gran ayuda.	comment
+es-test-0079	A su favor destaco la interfaz de usuario que está muy bien elaborada además de que resulta ser muy intuitiva	comment
+es-test-0080	Nos pusieron una cuna gratuita.	comment
+es-test-0081	El personal muy amable y eficientenEs la cuarta vez que nos alojamos en este Hotel y seguiremos haciendolo	comment
+es-test-0082	Seguro volveré	meaningless
+es-test-0083	Todo estuvo bien	comment
+es-test-0084	Hiper recomendable.	comment
+es-test-0085	Muy buena ubicación y hotel muy cómodo.	comment
+es-test-0086	Se agradece de verdad.	comment
+es-test-0087	El hotel se encuentra en una situación excepcional, cercano a cualquier parada de metro y a menos de 15 minutos andando de los principales atractivos turísticos de la ciudad.	comment
+es-test-0088	Exelente atencion	comment
+es-test-0089	Habitación cómoda, personal atento y de fácil acceso a zonas de interés	comment
+es-test-0090	Muy grande y cuidado.	comment
+es-test-0091	Arreglen eso, es una aplicación increíble pero no con este problema	comment
+es-test-0092	Habitación limpia y cómoda.	comment
+es-test-0093	Por que con esos detalles arruinan la calidad de su aplicación.	complaint
+es-test-0094	La ubicación es muy buena, porque está en pleno Miraflores, cerca de muchas cosas y a la vez en una avenida con tránsito medio y que tiene un muy bonito boulevard.	comment
+es-test-0095	EL agua caliente se acaba pronto cuando se duchan tres seguidos.	complaint
+es-test-0096	Nos dieron late check out sin costo adicional.	comment
+es-test-0097	Y que el desayuno no se acabase a una hora fija como en los demás hoteles.	complaint
+es-test-0098	Todo ,realmente es un placer estar en un hotel que le deja a uno salirse de la realidad por un momento para estar feliz y sin preocupaciones.	comment
+es-test-0099	sobre todo las de vídeos después de un tiempo usándolas	complaint
+es-test-0100	El bacalao estaba muy elaborado y al punto, el postre muy bueno	comment
+es-test-0101	Excelente atención.	comment
+es-test-0102	(Sólo sugiero extender el horario de desayuno para el día domingo en una hora más)	complaint
+es-test-0103	El personal del lobby estaba como de mal humor, ni siquiera respondía los buenos días.	complaint
+es-test-0104	Muy cómodo y relajado, bien ubicado y excelente desayuno.	comment
+es-test-0105	Al lado de la Ciudad de Artes y Ciencias.	comment
+es-test-0106	Excelente relación precio/calidad en comparación con otros hoteles cerca.	comment
+es-test-0107	No vuelvo a coger un taxi en mi vida salvo caso extremo pro no voy a usar esta m***** de aplicación.	complaint
+es-test-0108	Tuve problema con la entrega de mi equipaje. Hubo alguna confusión y se demoraron en traerlo a mi habitación.	comment
+es-test-0109	NADA QUE CRITICARLE	meaningless
+es-test-0110	A mi me gusta mucho por sus caras.	complaint
+es-test-0111	Diseño precioso, y muy muy Tranquilo.	comment
+es-test-0112	Clásico y tradicional Hotel en Buenos Aires, diría el hotel más glamouroso de la ciudad.	comment
+es-test-0113	La habitación es un poco desangelada ya que no hay nada en las paredes blancas, ni una butaca decente para sentarse a leer.	complaint
+es-test-0114	La vista del restaurante y el servicio 10 puntos!!!	comment
+es-test-0115	Me encanto la disposición del bano, y la comodidad de la habitación.	complaint
+es-test-0116	Las Almohadas son pésimas, no es posible que un hotel tan buenos se de el lujo de no colocar buenas almohadas, las actuales terribles	complaint
+es-test-0117	NO QUIERO QUE ME IMPONGAN NADA, QUIERO LIBERTAD DE TENER APPS QUE QUIERO NO QUE ME OBLIGUEN...!!!	complaint
+es-test-0118	todo perfecto	comment
+es-test-0119	El hotel está en las afueras aunque cercano a dos líneas de autobús urbano.	comment
+es-test-0120	Las instalaciones son preciosas	comment
+es-test-0121	soy premium familia y no nos da ningun problema y mi hijo la usa mucho sin conexion y cero drama....recomendable	comment
+es-test-0122	Excelente hotel ..	comment
+es-test-0123	Desayuno adecuado, completo, suficiente.	comment
+es-test-0124	Tiempos, seguridad y comodidad.	comment
+es-test-0125	Dos estrellas michelin totalmente merecidas.	comment
+es-test-0126	el personal es muy amable y el servicio de spa es muy bueno; solicite un servicio a la habitación y la persona que llegó fue super profesional y el masaje delicioso.	comment
+es-test-0127	Simplemente perfecto.	comment
+es-test-0128	La recomiendo para todos	comment
+es-test-0129	Excellente ubicación, los cuartos muy comodos y silenciosos, las camas muy buenas y el servicio de 1era.	comment
+es-test-0130	EL PAPEL DE WATER ERA DE BAJA CALIDAD, HABIA MUY POCA LUZ EN LA HABITACIÓN	complaint
+es-test-0131	Cálida atención.	comment
+es-test-0132	El pisco sour de cortecia era malisimo, parece que el pisco era de mala calidad.	complaint
+es-test-0133	Deberían mejorar la calefacción de la habitación, dado que altetna períodos de aire ccaliente con aire frío para nivelar la tempertura, y eso para los alérgicos es muy malo.	complaint
+es-test-0134	Cada vez que pasaba por el pasadizo, no saludaba y su expresión siempre fue descortés y molesta Saludos	comment
+es-test-0135	el gimnasio desastrozo para lo que cobran.	complaint
+es-test-0136	El lugar extremadamente agradable , con un restaurant muy bello esteticamente y con un chef de primer nivel.	comment
+es-test-0137	La ubicación es bastante buena, de fácil acceso a restaurantes y zonas turísticas como Miraflores y Barranco.	comment
+es-test-0138	Muy linda habitación, confortable al igual que el baño.	comment
+es-test-0139	Genial que tengan bicicletas y paraguas.	comment
+es-test-0140	El trato despectivo del personal de recepción	comment
+es-test-0141	El trato del personal es lo mejor de este gran hotel.	comment
+es-test-0142	Ya me ha pasado varias veces que llego al destino y el taxista dice que no ve el descuento y te quedas con la cara de gilipollas pagando 15 euros por un trayecto de 15 minutos...	complaint
+es-test-0143	Las camas excelentes.	comment
+es-test-0144	Bonito edificio restaurado, bien acondicionado	comment
+es-test-0145	No puedes seleccionar una canción en especifico, si reproduces en aleatorio termina reproduciendo una canción fuera de la lista.	comment
+es-test-0146	No me gusto la ropa de cama.	complaint
+es-test-0147	Desde la última actualización, se ha vuelto increíblemente lenta y además me traba el equipo.	complaint
+es-test-0148	Espero puedan cambiar esas políticas...	complaint
+es-test-0149	El hotel es extraordinario.	comment
+es-test-0150	El personal muy atento.	comment
+es-test-0151	la cama es muy comoda y la habitacion espaciosa.	comment
+es-test-0152	Todo muy bueno	comment
+es-test-0153	Habitaciones cómodas.	comment
+es-test-0154	es buen hotel si esperas tomar un vuelo al dia siguiente.....	comment
+es-test-0155	Buenísima app, sin duda la mejor para escuchar música.	comment
+es-test-0156	Un 10 el hotel.	comment
+es-test-0157	La ubicación muy buena.	comment
+es-test-0158	El agua salpicaba el suelo del baño.	complaint
+es-test-0159	Amplias habitaciones, desayuno discretonServicios turisticos	comment
+es-test-0160	Su horario de desayunos hasta las 19:00 y su late check-out no tienen comparación con otros hoteles.	complaint
+es-test-0161	Ubicación , personal bilingüe en recepción ,	comment
+es-test-0162	Excelente atención.	comment
+es-test-0163	Ubicación y atención del personal.	comment
+es-test-0164	ligereza como programa , facil uso , practico y el mas eficiente en el mundo linux	comment
+es-test-0165	Es un Hotel que tiene una situación privilegiada en el centro de Valencia.	complaint
+es-test-0166	Camas muy comodas, cafe en el roof muy agradable.	comment
+es-test-0167	Nos encantó!!!	comment
+es-test-0168	El parking es para coches pequeños.	comment
+es-test-0169	La cama también es muy cómoda y el desayuno, si bien no es de los mejores, está bastante variado	comment
+es-test-0170	Las piezas eran espaciosas, con buena conexión a internet y excelente desayuno.	comment
+es-test-0171	La zona es hermosa.	comment
+es-test-0172	Excelente la atención, es muy cómodo y su decoración lo hace muy acogedor.	comment
+es-test-0173	La ubicación es excelente en el Barrio de las letras, la vida nocturna y los lugares para ir a comer y tomar algo...	comment
+es-test-0174	En aleatorio (que no se puede hacer otra cosa) termina repitiendote las mismas canciones.	complaint
+es-test-0175	Estupendo!	comment
+es-test-0176	El cuarto de baño moderno y bonito tambien.	comment
+es-test-0177	El desayuno muy bueno	comment
+es-test-0178	Felicito a sus creadores por La iniciativa y por mantener La calidad en el tiempo.	comment
+es-test-0179	Fuimos en auto y pudimos estacionar en la calle sin ningún problema.	comment
+es-test-0180	La cama es muy grande, muchos detalles para los niños, cuando llegamos teníamos una caja con juguetes y nos llevaron más.	complaint
+es-test-0181	Fuimos en Semana Santa y nos costó 85 euros noche, inmejorable el precio para las fechas que eran.	comment
+es-test-0182	Buena ubicación.	comment
+es-test-0183	El estilo del lugar, la ubicación y sobre todo la atención!	comment
+es-test-0184	Deseando ir con mi peque.	complaint
+es-test-0185	El personal muy atento y agradable.	comment
+es-test-0186	El acceso, para las maletas falta rampa	complaint
+es-test-0187	Ubicación inmejorable.	comment
+es-test-0188	Es un hotel muy bueno, sus condiciones generales, la seguridad dentro del hotel y en la zona, la atención, las habitaciones, la comida y su ubicación.	comment
+es-test-0189	Por favor solucionen este problema, ya que nos obligan a tenerlo.	complaint
+es-test-0190	El precio es muy alto para NO incluir desayuno	complaint
+es-test-0191	No aceptan pago en usd o cargo en la tc directamente en usd.	complaint
+es-test-0192	El ambiente del hotel es muy linda y Europeana, y la gente muy simpatica.	comment
+es-test-0193	Pongan algo innovador lo uso hace 4 años y espero ver cambios!!!!!	comment
+es-test-0194	Tampoco tiene calefacción.	complaint
+es-test-0195	El baño era pequeño y la iluminación global insuficiente	complaint
+es-test-0196	La ubicación porque es un barrio tranquilo y seguro	comment
+es-test-0197	Aunque somos conscientes de que es cuestión de gusto (y costumbre) personal, los colchones los encontramos algo menos duros de lo que nos hubiera gustado.	complaint
+es-test-0198	La habitacion es amplia, moderna, muy bonita y la cama super comoda.	comment
+es-test-0199	Ubicacion y jardin	comment
+es-test-0200	hotel en barrio tranquilo y con buena ubicación para salir a recorrer Lima	comment
+es-test-0201	La cama confortable.	comment
+es-test-0202	La cama muy cómoda y las almohadas deliciosas.	comment
+es-test-0203	Desayuno buffet muy variado.	complaint
+es-test-0204	No habían recogido la copa de vino que utilice la noche anterior y el inodoro no había sido limpiando correctamente.	complaint
+es-test-0205	Buena ubicación al lado de las calles de shopping de Sinsa.	comment
+es-test-0206	El televisor es pequeño.	complaint
+es-test-0207	Lo positivo: sus video llamadas y llamadas de voz, los emoticons y los jueguitos q han agregado, gracias!!! Sigan mejorando.	comment
+es-test-0208	La habitación era amplia, la cama enorme, el desayuno estaba muy bueno y el barrio es bonito y seguro.	comment
+es-test-0209	Excelente y amplia habitación!	comment
+es-test-0210	El desayuno horrible.	complaint
+es-test-0211	El hotel es una joya en cuestión de diseño y arquitectura	comment
+es-test-0212	El personal muy amable	comment
+es-test-0213	Por el precio, debería estar incluida la limpieza.	complaint
+es-test-0214	Las camas muy cómodas y las instalaciones del Hotel muy completas	comment
+es-test-0215	La habitación muy cómoda y amplia, limpia.	comment
+es-test-0216	Desayuno muy bueno y contundente.	comment
+es-test-0217	La cafetera de la habitación no funcionaba y la luz de lectura de la cama funcionaba mal	complaint
+es-test-0218	Muy agradable.	comment
+es-test-0219	Después de 4 días solicitando amablemente que no me tutearan, ha sido totalmente imposible.	complaint
+es-test-0220	Gastronomia.	meaningless
+es-test-0221	Habitaciones espaciosas, limpias y decoradas con gusto.	comment
+es-test-0222	Desayuno muy completo.	complaint
+es-test-0223	Muy limpio.	comment
+es-test-0224	Y la energía y atención del personal, excelente!!	comment
+es-test-0225	Excelente servicio, muy buena atención y organización.	comment
+es-test-0226	Todo perfecto...	comment
+es-test-0227	Totalmente recomendado	comment
+es-test-0228	La cama era lo mejor.	comment
+es-test-0229	Tiene que hacer la fincion de elimimar contacto seguido de blokeado.	comment
+es-test-0230	Cuando ocultas el día de alguien ya no se puede volver a poner para verlo y eso está mal deberían de poner la opción porq sin querer oculte el de un amigo y ahora​ ya no puedo ponerlo como antes arreglen eso porfa	complaint
+es-test-0231	100% recomendado para aquellos que necesiten un navegador fácil de instalar en un sistema antiguo o limitado por su conexion.	complaint
+es-test-0232	Tenían comida apta para celiacos!!!!	complaint
+es-test-0233	Mucha tranquilidad.	comment
+es-test-0234	ambiente soñado...	comment
+es-test-0235	Baño amplio y completo.	comment
+es-test-0236	Pesa actualizacion.	complaint
+es-test-0237	El baño era de un tamaño perfecto, la ducha grande, y todos los días nos cambiaban las toallas y los amenities si así lo requeríamos.	comment
+es-test-0238	Me gustó mucho la variedad del desayuno.	comment
+es-test-0239	Excelente nivel tanto en la habitación Balcony Suite como en los servicios.	comment
+es-test-0240	El personal muy atento y amable.	comment
+es-test-0241	La atención del personal fue muy servicial y buena, el hotel tiene una excelente ubicación en la zona T de Bogotá.	comment
+es-test-0242	El desayuno y la habitación, la terraza es espectacular, muy buena ubicación.	comment
+es-test-0243	El desayuno muy industrial	complaint
+es-test-0244	La atención del personal	comment
+es-test-0245	Sin duda la ubicación es ideal para combinar negocios y ratos de ocio.	comment
+es-test-0246	El barrio motiva a que se camine a cualquier hora del día, porque es muy seguronLa atención del personal es genial, todos son muy amables.	comment
+es-test-0247	Tuvimos un pequeño incidente con una pieza del equipaje y todo el tiempo estuvieron prestando ayuda, yendo mucho más allá de lo que era esperable.	comment
+es-test-0248	muy buena atencion.	comment
+es-test-0249	Baño amplio, ducha excelente.	comment
+es-test-0250	Las instalaciones y el desayuno fueron lo mejor.	comment
+es-test-0251	Las piezas muy cómodas, el café/cafetera de cortesía un agrado.	comment
+es-test-0252	Lo único malo fue que cuando quisimos ocupar el jacuzzi del piso 6, éste nunca funcionó ni calentó el agua, por lo que no pudimos ocuparlo	complaint
+es-test-0253	Buena Ubicación, excelente trato!	comment
+es-test-0254	Eramos dos habitaciones y a mi familia le entregaron una habitación que ya estaba ocupada.	complaint
+es-test-0255	Podrían hacer un ambiente de biblioteca y hacer chillout para tomar un té con música indie.	comment
+es-test-0256	integración con otras aplicaciones como youtube	comment
+es-test-0257	Deje de ser root y no me deja iniciar sesion, y utilizar esta app en una tablet es extremadamente incomodo.	complaint
+es-test-0258	Arréglenlo por favor.	complaint
+es-test-0259	en fin, cada vez me decepciona más.	comment
+es-test-0260	Finalmente, el personal de la recepción fue muy amable y dispuestos a solucionar cualquier tipo de problema o duda.	comment
+es-test-0261	Variedad de armas	meaningless
+es-test-0262	Ubicación, camas, personal es lo mejor de este hotel.	comment
+es-test-0263	Excelente atención, personal profesional.	comment
+es-test-0264	Por favor SOLUCIONEN ESE PROBLEMA Y SERIA UNA APP DELICIOSA*-*	comment
+es-test-0265	No la volveré a usar.	comment
+es-test-0266	No funcionaba la calefacción y era fría la segunda noche protestamos y nos dieron una manta.	complaint
+es-test-0267	El personal es muy muy amable y cordial, muy atento a todas nuestras solicitudes, y la limpieza es un punto a destacar.	comment
+es-test-0268	Solidarios.	meaningless
+es-test-0269	La ubicación muy buena	comment
+es-test-0270	ligero	meaningless
+es-test-0271	El proceso de check out fue un poco lento porque no les funcionaba bien la impresora.	complaint
+es-test-0272	Personal muy amable.	comment
+es-test-0273	Nos encantaron las vistas, la luminosidad de la sala y habitación.	comment
+es-test-0274	La cama comodisima!!!! El personal excelente!! La pase fantástico!	comment
+es-test-0275	Todo me gusto, muy bonito, limpio, habitación amplia y el desayuno exquisito	comment
+es-test-0276	las instalaciones y el personal muy atento	comment
+es-test-0277	La decoración, La Cocina, y que está muy céntrico	comment
+es-test-0278	Muy buena onda además supieron que estabamos de aniversario de matrimonio y nos hicieron un upgrade de habitación.	comment
+es-test-0279	Definitivamente volvería de placer o trabajo	comment
+es-test-0280	La cama muy cómoda	comment
+es-test-0281	Excelente desayuno y evitas el tráfico, al estar dentro del aeropuerto.	comment
+es-test-0282	Las habitaciones son muy confortables.	comment
+es-test-0283	La cama comoda	comment
+es-test-0284	El desayuno es muy completo.	complaint
+es-test-0285	Todo bárbaro limpieza y confort	comment
+es-test-0286	Pero a mi opinión cumple su funcion.	comment
+es-test-0287	El horario del desayuno hasta las 10am, muy temprano cuando uno va a descansar y quiere levantarse con calma.	complaint
+es-test-0288	El aire acondicionado del cuarto sonaba mucho La Cocina muy cerca al comedor y se escuchaba fuertemente las conversaciones personales del personal de cocina	complaint
+es-test-0289	El desayuno podría ser mejor	complaint
+es-test-0290	Continuen trabajando para mejorar la experiencia del huesped.	comment
+es-test-0291	La habitación era como se muestra en la publicidad pero muy mal insonorizada.	complaint
+es-test-0292	Al lado del Pedregal, casa construida por Gaudi.	comment
+es-test-0293	Un placer .	comment
+es-test-0294	es perfecta.	comment
+es-test-0295	Estaba bien pero ahora no puedo enviar vídeos ni fotos se quedan ala mitad y no pasa de ahí y eso es súper molesto, tengo 2 días con ese problema, he desintalado 3 la app pero sigue el problema, si erreglan eso estaría genial pero sino pues tocara dejar de usarla	comment
+es-test-0296	La ubicación inmejorable: a un paso de restaurantes; centros comerciales; tiendas para artículos de oficina y herramientas de trabajo.	comment
+es-test-0297	Limpio y agradable.	comment
+es-test-0298	todo perfecto.	comment
+es-test-0299	Lo mejor es la ubicación.	comment
+

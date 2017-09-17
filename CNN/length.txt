@@ -1,0 +1,31 @@
+1. CNN_ES
+	INFO:root:The maximum length of all sentences: 92
+	INFO:root:x_train: 1631, x_dev: 301
+	INFO:root:y_train: 1631, y_dev: 301
+
+2. CNN_FR
+	INFO:root:The maximum length of all sentences: 73
+	INFO:root:x_train: 2044, x_dev: 419
+	INFO:root:y_train: 2044, y_dev: 419
+
+3. CNN_JP
+	INFO:root:The maximum length of all sentences: 7
+	INFO:root:x_train: 1588, x_dev: 264
+	INFO:root:y_train: 1588, y_dev: 264
+
+4. CNN_EN
+	INFO:root:The maximum length of all sentences: 116
+	INFO:root:x_train: 3211, x_dev: 512
+	INFO:root:y_train: 3211, y_dev: 512
+
+CNN with RNN
+
+1. RNN_EN
+	CRITICAL:root:The maximum length is 116
+	INFO:root:x_train: 3211, x_dev: 512
+	INFO:root:y_train: 3211, y_dev: 512
+
+2. RNN_ES
+	CRITICAL:root:The maximum length is 92
+	INFO:root:x_train: 1631, x_dev: 301
+	INFO:root:y_train: 1631, y_dev: 301
