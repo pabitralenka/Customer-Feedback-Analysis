@@ -1,6 +1,6 @@
 # Customer Feedback Analysis, IJCNLP'17
 * **Our goal is to determine what class(es) the customer feedback sentences should be annotated with five-plus-one-classes       categorization (comment, request, bug, complaint, meaningless and undetermined) as in four languages i.e. English,           French, Japanese and Spanish**.
-* This is one of the shared tasks of IJCNLP - 2017. For more details about the task, please visit [here.](https://sites.google.com/view/customer-feedback-analysis/)
+* This is one of the shared tasks of [**IJCNLP - 2017**](http://ijcnlp2017.org/site/page.aspx?pid=901&sid=1133&lang=en). For more details about the task, please visit [here.](https://sites.google.com/view/customer-feedback-analysis/)
 ***
 
 ### Citing the paper
