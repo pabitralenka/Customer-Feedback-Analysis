@@ -6,7 +6,7 @@
 ### Citing the paper
 
 If you are using this code for any sort of research, please cite our paper 
-* [**Auto Analysis of Customer Feedback using CNN and GRU Network.**](https://arxiv.org/abs/1710.04600)
+* [**IITP at IJCNLP-2017 Task 4: Auto Analysis of Customer Feedback using CNN and GRU Network.**](http://aclweb.org/anthology/I17-4031)
 ***
 
 ### Dataset 
