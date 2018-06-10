@@ -1,0 +1,21 @@
+Our systems easily predicted the
+true labels of sentences which had either positive
+connotation words like “great”, “pleasant”, “nice”,
+“good”, etc or negative connotation words like
+“not”, “slow”, “unable”, “horrible”, etc and classi-
+fied them into comment and complaint classes respectively.
+The negative connotation words also
+appeared in the feedback sentences of bug class.
+But owing to the larger amount of training data in
+the complaint class as compared to the bug class,
+the negative connotation words appeared signifi-
+cantly in the complaint class. As a result, our
+systems had difficulty in predicting the true labels
+for the feedback sentences associated with the bug
+class. Our systems were unable to detect some
+tags due to the class imbalance problem in the
+training as well as test data. The scores of our systems
+could have been much better, provided that
+we should have more labeled training data. The
+system performance can be improved by the language
+specific pre-trained word embeddings.
